@@ -1,0 +1,1 @@
+@py.exe C:\Users\agk98\PycharmProjects\Automate-the-boring-stuff-w-py\lucky.py %*
